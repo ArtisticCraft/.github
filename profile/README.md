@@ -16,6 +16,10 @@
 
 请注意，以上三款整合包**均拥有难以置信的优化**，所以就算在低配机子上，也能拥有不错的帧数。
 
+[下载 Artisticc Clover](https://www.123pan.com/s/BMLdjv-rwP0H.html)
+
+请注意，Artisticc Clover 仅供**高配置玩家拍照使用**，请酌情下载并使用！
+
 另外，VirtualLauncher 已经停更，如果想要游玩这款整合包，请等待 Yakamo 发布 VirtualLauncher NEXT。
 
 ## 枪械生存服
