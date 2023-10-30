@@ -12,7 +12,7 @@
 
 即使你使用原版客户端进入，这些插件的工作不会受到任何影响。
 
-[下载 Sugar-Client](https://sugar.yaka.fun) [下载 VirtualLauncher](https://vl.rth1.link) [下载 VirtualLauncher NEXT（正在内测）](#)
+[下载 Sugar-Client](https://sugar.yaka.fun) [下载 VirtualLauncher](https://vl.rth1.app) [下载 VirtualLauncher NEXT（正在内测）](#)
 
 请注意，以上三款整合包**均拥有难以置信的优化**，所以就算在低配机子上，也能拥有不错的帧数。
 
