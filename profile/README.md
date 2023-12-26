@@ -20,13 +20,17 @@
 
 请注意，Artisticc Clover 仅供**高配置玩家拍照使用**，请酌情下载并使用！
 
-**另外，VirtualLauncher 已经停更，将不再接收功能/安全更新与 Bug 修复，请等待 Yakamo 发布 VirtualLauncher NEXT。**
+> [!CAUTION]
+> VirtualLauncher 已经停更，将不再接收功能/安全更新与 Bug 修复，请等待 Yakamo 发布 VirtualLauncher NEXT。
 
 ![QQ图片20231226214358](https://github.com/ArtisticCraft/.github/assets/119282947/4e7e98e2-9058-40aa-bb71-0f3498c4ebfd)
 
 ## 枪械服
 
-#### 提示：该服务器正在改版中，请时刻关注官方群以及微信公众号的信息。原地址(即 acguns.9666.fun:16110 已经暂时关闭，请勿强行连接。)
+
+> [!IMPORTANT]
+> 该服务器正在改版中，请时刻关注官方群以及微信公众号的信息。原地址(即 acguns.9666.fun:16110 已经暂时关闭，请勿强行连接。)
+
 
 # 管理组
 
