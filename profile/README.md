@@ -4,9 +4,9 @@
 
 你已经来到了一个叫做 ArtisticCraft 的服务器。
 
-在这里，你将可以游览樱花风光，亦或者是与数以万计的僵尸战斗。
+在这里，你将可以游览樱花风光，体验冒险的乐趣；你也可以选择美式居合，与你的好朋友来上一场激烈的枪战。**
 
-## 主生存服
+## 生存服
 
 我们的主生存服以 **1.20.1 Purpur** 服务端作为基础，安装了一些娱乐或者是增强游戏体验的插件，完全不需要客户端同步安装。
 
@@ -20,19 +20,13 @@
 
 请注意，Artisticc Clover 仅供**高配置玩家拍照使用**，请酌情下载并使用！
 
-另外，VirtualLauncher 已经停更，如果想要游玩这款整合包，请等待 Yakamo 发布 VirtualLauncher NEXT。
+**另外，VirtualLauncher 已经停更，将不再接收功能/安全更新与 Bug 修复，请等待 Yakamo 发布 VirtualLauncher NEXT。**
 
-## 枪械生存服
+![QQ图片20231226214358](https://github.com/ArtisticCraft/.github/assets/119282947/4e7e98e2-9058-40aa-bb71-0f3498c4ebfd)
 
-枪械服？哦，这个服务器使用了 **1.16.5 Forge** 服务端作为基础，安装了枪械与僵尸增强的模组，同时兼顾了娱乐插件的支持，除了模组需要客户端同时安装外，插件无需安装。
+## 枪械服
 
-即使你不使用任何优化模组，也能得到 100 FPS+ 的帧数。
-
-目前整合包正在逐步支持枪械服，请耐心等待即可。
-
-[下载 东北烤冷面系列（正在内测）](#)
-
-请注意，以上整合包**均内置了错误修复等模组**，就算出现多大的BUG，也不会影响到正常的游玩。
+#### 提示：该服务器正在改版中，请时刻关注官方群以及微信公众号的信息。原地址(即 acguns.9666.fun:16110 已经暂时关闭，请勿强行连接。)
 
 # 管理组
 
@@ -42,11 +36,25 @@
 
 Yakamo_QAQ | 冷面安诺 | Syphlix_Oauthes | CubeVlmu | Grassblock2022 | 实名上网ji哥 | 实名上网3570 | TWSFTS_07007
 
+# 简易帮助区域
+
+[ArtisticcHelper](https://github.com/ArtisticCraft/ArtisticcHelper) 这是一个**开源免费**且由管理组成员们自发制作的**帮助程序，可有效解决大部分问题。**
+
+[ArtisticcDocs](https://docs.qq.com/doc/DSWt4d1ZObHNud0xR) 这是由管理组经过**几轮重置并通过赞助用户决议后，基于腾讯文档搭建的官方帮助文档，涵盖了大部分常见问题，可有效解决大部分问题。**
+
+[ArtisticcMap](http://203.135.99.250:13232/) 网页版地图，可**实时查看服务器地形状况与在线玩家，非常实用。**
+
+[ArtisticcAchievement](https://too.st/6gC) 网页版数据统计界面，且为**相应的玩家给予了相应的称号，各个称号都非常有意思，非常实用。**
+
 # 服务器时间线
 
 ### 2022.10.30 —— 服务器正式公布、一周目开启
 
 ### 2022.11.02 —— 服务器支持外置登录
+
+### 2022.12.30 —— 服务器庆元旦活动正式开始
+
+### 2023.01.30 —— 服务器庆元旦活动圆满结束
 
 ### 2023.01.14 —— CubeVlmu 暂时退网，服主任务移交给 Yakamo
 
@@ -58,9 +66,13 @@ Yakamo_QAQ | 冷面安诺 | Syphlix_Oauthes | CubeVlmu | Grassblock2022 | 实名
 
 ### 2023.09.16 —— 服务器开启官方邮箱反馈通道
 
-### 2023.09.20 —— 服务器获得公众号运营权限，CubeVlmu 回归
+### 2023.09.17 —— 服务器获得公众号运营权限，CubeVlmu 回归
 
-### 2023.10.15 —— 某人被制裁，服务器成功变回原来的样子
+### 2023.10.15 —— 某位骑在玩家头上并以为自己很“伟大”的人被制裁，服务器成功变回原来的样子
+
+### 2023.10.30 —— 枪械服改版完毕并正式推送
+
+### 2023.11.14 —— 枪械服核心功能正式开始重置(尚未完成)
 
 ### 未来 —— 我们还会继续砥砺前行，与你 MAKE IT POSSIBLE！
 
@@ -68,6 +80,6 @@ Yakamo_QAQ | 冷面安诺 | Syphlix_Oauthes | CubeVlmu | Grassblock2022 | 实名
 
 QQ群：866097840 [点击加入](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=kE2tqGTDO-V0txYYYLRi0OBSm5XV0U7D&authKey=o%2FtrfoMLyWcNVc1OG7hymL5XSjiCihLKGs1NektVC9rMHncyxKQNrK4C1LPWdpOz&noverify=0&group_code=866097840)
 
-Email：ArtisticCraftOffical@proton.me [发送工单/邮件](mailto:ArtisticCraftOffical@proton.me)
+Email：[发送工单/邮件](mailto:ArtisticCraftOffical@proton.me)
 
 微信公众号：ArtisticCraft
