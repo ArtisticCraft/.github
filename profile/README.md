@@ -1,3 +1,8 @@
+# **重要信息**
+
+> [!IMPORTANT]
+> 我们最近正在考虑升级服务器的**物理配置**，如果您在资金条件允许的情况下，欢迎[赞助我们](http://afdian.net/a/artistic_mc)，以获得更好的玩家体验。
+
 # ArtisticCraft
 
 嗨。你好。
@@ -20,7 +25,7 @@
 
 请注意，Artisticc Clover 仅供**高配置玩家拍照使用**，请酌情下载并使用！
 
-> [!CAUTION]
+> [!WARNING]
 > VirtualLauncher 已经停更，将不再接收功能/安全更新与 Bug 修复，请等待 Yakamo 发布 VirtualLauncher NEXT。
 
 ![QQ图片20231226214358](https://github.com/ArtisticCraft/.github/assets/119282947/4e7e98e2-9058-40aa-bb71-0f3498c4ebfd)
@@ -28,7 +33,7 @@
 ## 枪械服
 
 
-> [!IMPORTANT]
+> [!NOTE]
 > 该服务器核心正在重铸中，请时刻关注官方群以及微信公众号的信息。原地址(即 ac*********0)已经暂时关闭，请勿强行连接。
 > 
 > 你也可以[查看 Project 进度，](https://github.com/orgs/ArtisticCraft/projects/2/views/1)看看重铸计划怎么样了。
