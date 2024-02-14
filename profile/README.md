@@ -1,5 +1,7 @@
 > [!IMPORTANT]
-> 我们最近正在考虑升级服务器的**物理配置**，如果您在资金条件允许的情况下，欢迎[赞助我们](http://afdian.net/a/artistic_mc)，以获得更好的玩家体验。
+> 我们，四周目见。
+
+详细信息[见此](https://mp.weixin.qq.com/s?__biz=MzkxNTUwNTg4OA==&mid=2247483823&idx=1&sn=98faa8e72df3a0f25cca3e83cbbb36e0&chksm=c15f5620f628df36d6030efe0caab6fe5951d356bf3c1874523f3681d427ac00760f2b26a209#rd)
 
 # ArtisticCraft
 
