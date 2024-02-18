@@ -1,9 +1,4 @@
-> [!IMPORTANT]
-> 我们，四周目见。
-
-详细信息[见此](https://mp.weixin.qq.com/s?__biz=MzkxNTUwNTg4OA==&mid=2247483823&idx=1&sn=98faa8e72df3a0f25cca3e83cbbb36e0&chksm=c15f5620f628df36d6030efe0caab6fe5951d356bf3c1874523f3681d427ac00760f2b26a209#rd)
-
-# ArtisticCraft
+# ArtisticCraft - 重构想象
 
 嗨。你好。
 
@@ -32,11 +27,15 @@
 
 ## 枪械服
 
+我们很高兴的宣布，四周目的枪械服已经更新了最新的枪械服核心。
 
-> [!NOTE]
-> 该服务器核心正在重铸中，请时刻关注官方群以及微信公众号的信息。原地址(即 ac*********0)已经暂时关闭，请勿强行连接。
-> 
-> 你也可以[查看 Project 进度，](https://github.com/orgs/ArtisticCraft/projects/2/views/1)看看重铸计划怎么样了。
+模式也从原来的 PVP 转变成了 PVE 或者养老生存。
+
+你需要在养老生存的同时，抵御自然灾害，也可以逆天而行，在陆地上制造各种重工机器。
+
+来试试吗？
+
+![图片](https://github.com/ArtisticCraft/.github/assets/119282947/8e57709f-9a54-4413-bf2b-04d9a18d968e)
 
 
 # 管理组
@@ -52,10 +51,6 @@ Yakamo_QAQ | 冷面安诺 | Syphlix_Oauthes | CubeVlmu | Grassblock2022 | 实名
 [ArtisticcHelper](https://github.com/ArtisticCraft/ArtisticcHelper) 这是一个**开源免费**且由管理组成员们自发制作的**帮助程序，可有效解决大部分问题。**
 
 [ArtisticcDocs](https://docs.qq.com/doc/DSWt4d1ZObHNud0xR) 这是由管理组经过**几轮重置并通过赞助用户决议后，基于腾讯文档搭建的官方帮助文档，涵盖了大部分常见问题，可有效解决大部分问题。**
-
-[ArtisticcMap](http://203.135.99.250:13232/) 网页版地图，可**实时查看服务器地形状况与在线玩家，非常实用。**
-
-[ArtisticcAchievement](https://too.st/6gC) 网页版数据统计界面，且为**相应的玩家给予了相应的称号，各个称号都非常有意思，非常实用。**
 
 # 服务器时间线
 
@@ -85,7 +80,13 @@ Yakamo_QAQ | 冷面安诺 | Syphlix_Oauthes | CubeVlmu | Grassblock2022 | 实名
 
 ### 2023.11.14 —— 枪械服核心功能正式开始重置(尚未完成)
 
-### 未来 —— 我们还会继续砥砺前行，与你 MAKE IT POSSIBLE！
+### 2023.12.31 —— 枪械服核心功能基本重置完毕
+
+### 2024.02.17 —— 新物理机到达 Yakamo 的手中，四周目正式开始部署
+
+### 2024.02.18 —— 枪械服与生存服部署完毕，枪械服新核心正式推送
+
+### 未来 —— 我们还会继续砥砺前行，在一起，就可以！
 
 # 联系我们
 
