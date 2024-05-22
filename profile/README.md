@@ -12,7 +12,7 @@
 
 即使你使用原版客户端进入，这些插件的工作不会受到任何影响。
 
-[下载 Sugar-Client](https://sugar.yaka.fun) [下载 VirtualLauncher](https://vl.rth1.app) [下载 VirtualLauncher NEXT（正在内测）](#)
+[下载 Sugar-Client](https://sugar.yaka.fun) [下载 VirtualLauncher](http://vl.atforever.world) [下载 VirtualLauncher NEXT（正在内测）](#)
 
 请注意，以上三款整合包**均拥有难以置信的优化**，所以就算在低配机子上，也能拥有不错的帧数。
 
@@ -31,15 +31,13 @@
 
 模式也从原来的 PVP 转变成了 PVE 或者养老生存。
 
-你需要在养老生存的同时，抵御自然灾害，也可以逆天而行，在陆地上制造各种重工机器。
+你需要在养老生存的同时，抵御尸潮的袭击，也可以逆天而行，实行游走战术。
 
 来试试吗？
 
-![图片](https://github.com/ArtisticCraft/.github/assets/119282947/8e57709f-9a54-4413-bf2b-04d9a18d968e)
-
 ## 创造服
 
-在 TBSTMC 中，你可以用你的双手创造出一个绝妙的美丽世界。
+在创造服中，你可以用你的双手创造出一个绝妙的美丽世界。
 
 在这里，不受限制，自由创造。
 
@@ -51,7 +49,7 @@ Creative Mode，启动！
 
 ## 名单（顺序不分前后）
 
-Yakamo_QAQ | 冷面安诺 | Syphlix_Oauthes | CubeVlmu | Grassblock2022 | 实名上网ji哥 | 实名上网3570 | TWSFTS_07007
+Yakamo_QAQ | 冷面安诺 | Syphlix_Oauthes | CubeVlmu | Grassblock2022 | 实名上网 ji 哥 | 实名上网 3570 | TWSFTS_07007
 
 # 简易帮助区域
 
@@ -59,7 +57,7 @@ Yakamo_QAQ | 冷面安诺 | Syphlix_Oauthes | CubeVlmu | Grassblock2022 | 实名
 
 [ArtisticcDocs](https://docs.qq.com/doc/DSWt4d1ZObHNud0xR) 这是由管理组经过**几轮重置并通过赞助用户决议后，基于腾讯文档搭建的官方帮助文档，涵盖了大部分常见问题，可有效解决大部分问题。**
 
-# 服务器时间线
+# 服务器时间轴
 
 ### 2022.10.30 —— 服务器正式公布、一周目开启
 
@@ -77,28 +75,38 @@ Yakamo_QAQ | 冷面安诺 | Syphlix_Oauthes | CubeVlmu | Grassblock2022 | 实名
 
 ### 2023.08.25 —— 枪械服正式公布，吸引了大批玩家
 
-### 2023.09.16 —— 服务器开启官方邮箱反馈通道
+### 2023.09.16 —— 服务器开启官方邮箱反馈通道。
 
-### 2023.09.17 —— 服务器获得公众号运营权限，CubeVlmu 回归
+### 2023.09.17 —— 服务器获得公众号运营权限，CubeVlmu 被正式宣布死亡。
 
-### 2023.10.15 —— 某位骑在玩家头上并以为自己很“伟大”的人被制裁，服务器成功变回原来的样子
+### 2023.10.15 —— Flandrellau 被清理出 ArtisticCraft，环境得到改善。
 
-### 2023.10.30 —— 枪械服改版完毕并正式推送
+### 2023.10.30 —— 枪械服改版完毕并正式推送。
 
-### 2023.11.14 —— 枪械服核心功能正式开始重置(尚未完成)
+### 2023.11.14 —— 枪械服核心功能正式开始重置。
 
-### 2023.12.31 —— 枪械服核心功能基本重置完毕
+### 2023.12.31 —— 枪械服核心功能基本重置完毕。
 
-### 2024.02.17 —— 新物理机到达 Yakamo 的手中，四周目正式开始部署
+### 2024.02.17 —— 新物理机到达 Yakamo 的手中，四周目正式开始部署。
 
-### 2024.02.18 —— 枪械服与生存服部署完毕，枪械服新核心正式推送
+### 2024.02.18 —— 枪械服与生存服部署完毕，枪械服新核心正式推送；TCraft 与 ArtisticCraft 正式合并，成为新的服务器集群 ATCraft Network，玩家有了更多选择。
+
+### 2024.05.01 —— 枪械服进行 1.16.5 测试，为期 14 Days；Flandrellau 被提出不信任案。
+
+### 2024.05.08 —— VirtualLauncher Reborn 正式推出。
+
+### 2024.05.12 —— Flandrellau 正式被踢出任何有关 ATCraft Network 的群聊，终止与 Flandrellau / KaedeEssential 的任何合作。
+
+### 2024.05.14 —— ATCraft Network 生存服帮助文档重置完毕。
+
+### 2024.05.15 —— 枪械服 1.16.5 测试结束，服务端已存档，更换为 1.18.2 服务端。
 
 ### 未来 —— 我们还会继续砥砺前行，在一起，就可以！
 
 # 联系我们
 
-QQ群：866097840 [点击加入](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=kE2tqGTDO-V0txYYYLRi0OBSm5XV0U7D&authKey=o%2FtrfoMLyWcNVc1OG7hymL5XSjiCihLKGs1NektVC9rMHncyxKQNrK4C1LPWdpOz&noverify=0&group_code=866097840)
+QQ群：866097840 [点击加入](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=9_UlZ92kUjnqgivfYEt-_-SlVhCFPu2l&authKey=NTDDzpcZrSlukHbBz1aBvOt7l4177HtU4nj%2F3bAr%2BlwThBt7TDuoJmXa9AcG5NA7&noverify=0&group_code=805950688)
 
 Email：[发送工单/邮件](mailto:ArtisticCraftOffical@proton.me)
 
-微信公众号：ArtisticCraft
+微信公众号：ATCraft Network
