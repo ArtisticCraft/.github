@@ -1,10 +1,3 @@
-# 什么情况？发生什么事了？
-
-由于高考即将到来，我们暂时对所有 **ATCraft Network** 的公开群聊部署 24 小时宵禁，持续到高考结束后左右。详情[见此。](https://mp.weixin.qq.com/s?__biz=MzkxNTUwNTg4OA==&mid=2247483864&idx=1&sn=5fdf63ca7370a3e11809954b22bf3606&chksm=c15f5657f628df412ac7d0a92f2db8667fa7e279092c9d335742c8fbfd6f278c31ad5e54aa6c&token=1275471794&lang=zh_CN#rd
-)
-
-## 我们，高考后再战。
-
 # ATCraftNetwork - 重构想象
 
 嗨。你好。
